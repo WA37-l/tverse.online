@@ -1,9 +1,0 @@
-User-agent: *
-Allow: /
-Disallow: /article.html?id=
-
-# 搜索引擎站点地图位置
-Sitemap: ./sitemap.xml
-
-# 爬虫延迟（礼貌）
-Crawl-delay: 1
