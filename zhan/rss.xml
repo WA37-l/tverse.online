@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI工具箱 - AI行业资讯</title>
+    <link>./index.html</link>
+    <atom:link href="./rss.xml" rel="self" type="application/rss+xml" />
+    <description>全球精选AI工具导航，每日更新AI行业资讯、教程与深度分析</description>
+    <language>zh-CN</language>
+    <lastBuildDate>2026-07-05T14:30:00+08:00</lastBuildDate>
+    <ttl>60</ttl>
+    <generator>AI工具箱 RSS Generator</generator>
+
+    <item>
+      <title>2026年AI工具排行榜：改变未来的10大神器</title>
+      <link>./article.html?id=1</link>
+      <description>随着人工智能技术的飞速发展，AI工具正在重塑工作方式。本期榜单揭晓 2026 年最值得关注的 10 大 AI 神器。</description>
+      <pubDate>Sat, 01 Jan 2026 00:00:00 +0800</pubDate>
+      <category>AI 趋势</category>
+    </item>
+    <item>
+      <title>ChatGPT完全指南：从入门到精通</title>
+      <link>./article.html?id=2</link>
+      <description>从注册、Prompt 工程到企业落地，全方位拆解 ChatGPT 的最佳实践。</description>
+      <pubDate>Sun, 02 Jan 2026 00:00:00 +0800</pubDate>
+      <category>AI 写作</category>
+    </item>
+    <item>
+      <title>Midjourney提示词工程：生成大师级画作</title>
+      <link>./article.html?id=3</link>
+      <description>详解 Midjourney 提示词结构、参数组合与艺术风格控制。</description>
+      <pubDate>Mon, 03 Jan 2026 00:00:00 +0800</pubDate>
+      <category>AI 绘画</category>
+    </item>
+    <item>
+      <title>AI副业指南：普通人如何利用AI月入过万</title>
+      <link>./article.html?id=12</link>
+      <description>从内容创作、定制服务到企业咨询，盘点 7 个真实可落地的 AI 副业路径。</description>
+      <pubDate>Sat, 12 Jan 2026 00:00:00 +0800</pubDate>
+      <category>AI 变现</category>
+    </item>
+  </channel>
+</rss>
